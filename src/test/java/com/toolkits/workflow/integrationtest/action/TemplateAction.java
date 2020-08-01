@@ -1,6 +1,6 @@
 /**
- * xkaisun@gmail.com
- * Copyright (c) 2013-2017 All Rights Reserved.
+ * lsp10@gmail.com
+ * Copyright (c) 2019-2020 All Rights Reserved.
  */
 
 package com.toolkits.workflow.integrationtest.action;
@@ -16,8 +16,8 @@ import com.toolkits.workflow.util.LoggerUtil;
 
 /**
  * 模板action
- * @author XiaokaiSun
- * @version $Id: TemplateAction.java, v 0.1 2017-12-28 15:51 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: TemplateAction.java, v 0.1 2017-12-28 15:51 lsp10 Exp $$
  */
 public class TemplateAction implements BusinessAction {
 
@@ -43,6 +43,7 @@ public class TemplateAction implements BusinessAction {
         LoggerUtil.info(logger, this.getClass().getSimpleName(), "处理中:~~~~~~");
 
         if (needThrowEx) {
+//            System.out.println(1/0);
             throw new BusinessActionException("action error", "action error");
         }
 

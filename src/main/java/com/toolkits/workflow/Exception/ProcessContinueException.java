@@ -1,14 +1,14 @@
 /**
- * xkaisun@gmail.com
- * Copyright (c) 2013-2017 All Rights Reserved.
+ * lsp10@gmail.com
+ * Copyright (c) 2019-2020 All Rights Reserved.
  */
 
 package com.toolkits.workflow.Exception;
 
 /**
  * 流程继续异常，用于应用跳过当前状跳转process的后续Action， 继续执行正常的router
- * @author XiaokaiSun
- * @version $Id: ProcessContinueException.java, v 0.1 2017-11-27 21:08 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: ProcessContinueException.java, v 0.1 2017-11-27 21:08 lsp10 Exp $$
  */
 public class ProcessContinueException extends WorkFlowException {
 

@@ -1,6 +1,6 @@
 /**
- * xkaisun@gmail.com
- * Copyright (c) 2013-2017 All Rights Reserved.
+ * lsp10@gmail.com
+ * Copyright (c) 2019-2020 All Rights Reserved.
  */
 
 package com.toolkits.workflow.util;
@@ -10,8 +10,8 @@ import java.util.UUID;
 
 /**
  * String工具类
- * @author XiaokaiSun
- * @version $Id: StringUtil.java, v 0.1 2017-11-16 17:08 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: StringUtil.java, v 0.1 2017-11-16 17:08 lsp10 Exp $$
  */
 public class StringUtil {
       /*

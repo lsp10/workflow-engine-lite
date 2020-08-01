@@ -1,6 +1,6 @@
 /**
- * xkaisun@gmail.com
- * Copyright (c) 2013-2017 All Rights Reserved.
+ * lsp10@gmail.com
+ * Copyright (c) 2019-2020 All Rights Reserved.
  */
 
 package com.toolkits.workflow.model.config;
@@ -17,8 +17,8 @@ import com.toolkits.workflow.util.StringUtil;
 
 /**
  * 工作流定义
- * @author XiaokaiSun
- * @version $Id: WorkFlowConfig.java, v 0.1 2017-11-24 15:40 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: WorkFlowConfig.java, v 0.1 2017-11-24 15:40 lsp10 Exp $$
  */
 public class WorkFlowConfig implements Initable {
 

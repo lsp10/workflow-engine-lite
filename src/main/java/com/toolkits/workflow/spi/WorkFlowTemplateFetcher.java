@@ -1,6 +1,6 @@
 /**
- * xkaisun@gmail.com
- * Copyright (c) 2013-2017 All Rights Reserved.
+ * lsp10@gmail.com
+ * Copyright (c) 2019-2020 All Rights Reserved.
  */
 
 package com.toolkits.workflow.spi;
@@ -10,8 +10,8 @@ package com.toolkits.workflow.spi;
  *
  * 实现的beanName 定义为：workFlowTemplateFetcher
  *
- * @author XiaokaiSun
- * @version $Id: WorkFlowTemplateFetcher.java, v 0.1 2017-11-24 20:41 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: WorkFlowTemplateFetcher.java, v 0.1 2017-11-24 20:41 lsp10 Exp $$
  */
 public interface WorkFlowTemplateFetcher {
 

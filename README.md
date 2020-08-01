@@ -1,6 +1,5 @@
 # 说明
-本模块为轻量化流程引擎,适用于嵌入到应用程序中实现流程的配置化,通过实现相应的接口，完成流程的定义
-执行.
+本模块为轻量化流程引擎,适用于嵌入到应用程序中实现流程的配置化,通过实现相应的接口，完成流程的定义执行.
 应用场景：流程引擎适用于基于状态变更的交易系统，同时也适用于存在流程化的系统，可方便复用流程原子级别的Action
 
 # 接入说明
@@ -42,8 +41,8 @@
 ```java
 /**
  * demo业务Instruction
- * @author XiaokaiSun
- * @version $Id: DemoInstruction.java, v 0.1 2017-12-06 10:30 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: DemoInstruction.java, v 0.1 2017-12-06 10:30 lsp10 Exp $$
  */
 public class DemoInstruction extends AbstractInstruction {
     
@@ -108,8 +107,8 @@ public class DemoInstruction extends AbstractInstruction {
 ```java
 /**
  * 自定义action
- * @author XiaokaiSun
- * @version $Id: DemoAction.java, v 0.1 2017-12-06 10:29 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: DemoAction.java, v 0.1 2017-12-06 10:29 lsp10 Exp $$
  */
 public class DemoAction implements BusinessAction {
 
@@ -143,8 +142,8 @@ public class DemoAction implements BusinessAction {
 ```java
 /**
  * 事例router
- * @author XiaokaiSun
- * @version $Id: DemoRouter.java, v 0.1 2017-12-06 10:38 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: DemoRouter.java, v 0.1 2017-12-06 10:38 lsp10 Exp $$
  */
 public class DemoRouter extends AbstractProcessRouter{
 

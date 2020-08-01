@@ -1,6 +1,6 @@
 /**
- * xkaisun@gmail.com
- * Copyright (c) 2013-2017 All Rights Reserved.
+ * lsp10@gmail.com
+ * Copyright (c) 2019-2020 All Rights Reserved.
  */
 
 package com.toolkits.workflow.integrationtest.spi;
@@ -16,8 +16,8 @@ import com.toolkits.workflow.spi.ComponentFetcher;
 
 /**
  *
- * @author XiaokaiSun
- * @version $Id: ComponentFetcherImpl.java, v 0.1 2017-12-28 17:12 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: ComponentFetcherImpl.java, v 0.1 2017-12-28 17:12 lsp10 Exp $$
  */
 @Component("componentFetcher")
 public class ComponentFetcherImpl implements ComponentFetcher, ApplicationContextAware {

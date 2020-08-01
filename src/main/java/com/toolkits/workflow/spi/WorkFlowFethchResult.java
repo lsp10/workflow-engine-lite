@@ -1,6 +1,6 @@
 /**
- * xkaisun@gmail.com
- * Copyright (c) 2013-2017 All Rights Reserved.
+ * lsp10@gmail.com
+ * Copyright (c) 2019-2020 All Rights Reserved.
  */
 
 package com.toolkits.workflow.spi;
@@ -15,8 +15,8 @@ import java.util.List;
  * 1. 返回的结果为本地 resource 路径，表示WorkFlow 配置的地址，为一个列表
  * 2. 返回的结果为配置文件的String list，这种情况外部应用可能通过db或者其他外部引用获取，
  * 
- * @author XiaokaiSun
- * @version $Id: WorkFlowFethchResult.java, v 0.1 2017-11-24 20:47 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: WorkFlowFethchResult.java, v 0.1 2017-11-24 20:47 lsp10 Exp $$
  */
 public class WorkFlowFethchResult {
 

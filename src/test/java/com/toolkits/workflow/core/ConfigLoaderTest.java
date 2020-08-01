@@ -8,8 +8,8 @@ import org.mockito.runners.MockitoJUnitRunner;
 import com.toolkits.workflow.model.config.WorkFlowConfig;
 
 /**
- * @author XiaokaiSun
- * @version $Id: ConfigLoaderTest.java, v 0.1 2017-11-27 16:54 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: ConfigLoaderTest.java, v 0.1 2017-11-27 16:54 lsp10 Exp $$
  */
 @RunWith(MockitoJUnitRunner.class)
 public class ConfigLoaderTest {

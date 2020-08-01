@@ -1,6 +1,6 @@
 /**
- * xkaisun@gmail.com
- * Copyright (c) 2013-2017 All Rights Reserved.
+ * lsp10@gmail.com
+ * Copyright (c) 2019-2020 All Rights Reserved.
  */
 
 package com.toolkits.workflow.spi;
@@ -11,8 +11,8 @@ import com.toolkits.workflow.model.ProcessRouter;
 /**
  * action， router等组件获取的接口, 接入组件的应用需实现此接口
  * beanName统一定义为：componentFetcher
- * @author XiaokaiSun
- * @version $Id: ComponentFetcher.java, v 0.1 2017-11-24 16:00 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: ComponentFetcher.java, v 0.1 2017-11-24 16:00 lsp10 Exp $$
  */
 public interface ComponentFetcher {
 

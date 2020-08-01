@@ -7,8 +7,8 @@ import org.mockito.runners.MockitoJUnitRunner;
 
 /**
  *
- * @author XiaokaiSun
- * @version $Id: CommonUtilTest.java, v 0.1 2017-12-04 17:41 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: CommonUtilTest.java, v 0.1 2017-12-04 17:41 lsp10 Exp $$
  */
 @RunWith(MockitoJUnitRunner.class)
 public class CommonUtilTest {

@@ -1,14 +1,14 @@
 /**
- * xkaisun@gmail.com
- * Copyright (c) 2013-2017 All Rights Reserved.
+ * lsp10@gmail.com
+ * Copyright (c) 2019-2020 All Rights Reserved.
  */
 
 package com.toolkits.workflow.model;
 
 /**
  * 进入工作流的模型统一要实现此接口
- * @author XiaokaiSun
- * @version $Id: Instruction.java, v 0.1 2017-11-23 20:27 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: Instruction.java, v 0.1 2017-11-23 20:27 lsp10 Exp $$
  */
 public interface Instruction {
 

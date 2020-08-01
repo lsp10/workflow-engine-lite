@@ -1,6 +1,6 @@
 /**
- * xkaisun@gmail.com
- * Copyright (c) 2013-2017 All Rights Reserved.
+ * lsp10@gmail.com
+ * Copyright (c) 2019-2020 All Rights Reserved.
  */
 
 package com.toolkits.workflow.model.config;
@@ -18,8 +18,8 @@ import com.toolkits.workflow.util.StringUtil;
 
 /**
  * 一个状态跳转的工作流定义
- * @author XiaokaiSun
- * @version $Id: Process.java, v 0.1 2017-11-24 15:47 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: Process.java, v 0.1 2017-11-24 15:47 lsp10 Exp $$
  */
 public class Process implements Initable {
 

@@ -1,6 +1,6 @@
 /**
- * xkaisun@gmail.com
- * Copyright (c) 2013-2017 All Rights Reserved.
+ * lsp10@gmail.com
+ * Copyright (c) 2019-2020 All Rights Reserved.
  */
 
 package com.toolkits.workflow.integrationtest.testcase;
@@ -18,8 +18,8 @@ import com.toolkits.workflow.integrationtest.model.Transaction;
 
 /**
  *
- * @author XiaokaiSun
- * @version $Id: WorkFlowTest.java, v 0.1 2017-12-28 18:15 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: WorkFlowTest.java, v 0.1 2017-12-28 18:15 lsp10 Exp $$
  */
 public class WorkFlowTest extends BaseTest {
 

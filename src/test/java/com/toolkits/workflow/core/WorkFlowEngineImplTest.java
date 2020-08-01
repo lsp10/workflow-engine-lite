@@ -13,8 +13,8 @@ import com.toolkits.workflow.model.Instruction;
 
 /**
  * 
- * @author XiaokaiSun
- * @version $Id: WorkFlowEngineImplTest.java, v 0.1 2017-11-28 14:44 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: WorkFlowEngineImplTest.java, v 0.1 2017-11-28 14:44 lsp10 Exp $$
  */
 @RunWith(MockitoJUnitRunner.class)
 public class WorkFlowEngineImplTest {

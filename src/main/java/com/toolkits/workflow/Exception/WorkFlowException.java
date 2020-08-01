@@ -1,14 +1,14 @@
 /**
- * xkaisun@gmail.com
- * Copyright (c) 2013-2017 All Rights Reserved.
+ * lsp10@gmail.com
+ * Copyright (c) 2019-2020 All Rights Reserved.
  */
 
 package com.toolkits.workflow.Exception;
 
 /**
  * 流程引擎异常
- * @author XiaokaiSun
- * @version $Id: WorkFlowException.java, v 0.1 2017-11-23 20:36 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: WorkFlowException.java, v 0.1 2017-11-23 20:36 lsp10 Exp $$
  */
 public class WorkFlowException extends RuntimeException {
 

@@ -1,6 +1,6 @@
 /**
- * xkaisun@gmail.com
- * Copyright (c) 2013-2017 All Rights Reserved.
+ * lsp10@gmail.com
+ * Copyright (c) 2019-2020 All Rights Reserved.
  */
 
 package com.toolkits.workflow.core;
@@ -30,8 +30,8 @@ import com.toolkits.workflow.model.config.WorkFlowConfig;
 
 /**
  * 配置加载器
- * @author XiaokaiSun
- * @version $Id: ConfigLoader.java, v 0.1 2017-11-24 18:04 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: ConfigLoader.java, v 0.1 2017-11-24 18:04 lsp10 Exp $$
  */
 
 public class ConfigLoader {

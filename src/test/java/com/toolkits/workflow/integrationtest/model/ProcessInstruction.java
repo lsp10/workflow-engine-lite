@@ -1,6 +1,6 @@
 /**
- * xkaisun@gmail.com
- * Copyright (c) 2013-2017 All Rights Reserved.
+ * lsp10@gmail.com
+ * Copyright (c) 2019-2020 All Rights Reserved.
  */
 
 package com.toolkits.workflow.integrationtest.model;
@@ -12,8 +12,8 @@ import com.toolkits.workflow.model.AbstractInstruction;
 
 /**
  * 测试指令
- * @author XiaokaiSun
- * @version $Id: ProcessInstruction.java, v 0.1 2017-12-28 14:39 XiaokaiSun Exp $$
+ * @author lsp10
+ * @version $Id: ProcessInstruction.java, v 0.1 2017-12-28 14:39 lsp10 Exp $$
  */
 public class ProcessInstruction extends AbstractInstruction {
 
