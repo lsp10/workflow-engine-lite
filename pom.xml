@@ -15,7 +15,7 @@
         <spring-boot>2.3.0.RELEASE</spring-boot>
         <java.version>1.8</java.version>
         <spring.version>5.2.6.RELEASE</spring.version>
-        <xstream.version>1.4.12</xstream.version>
+        <xstream.version>1.4.15</xstream.version>
         <guava.version>28.2-jre</guava.version>
     </properties>
 
